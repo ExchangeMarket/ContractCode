@@ -1,0 +1,2 @@
+# ContractCode
+BitmassExchange Token ContractCode
