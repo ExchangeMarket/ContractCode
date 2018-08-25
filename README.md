@@ -1,4 +1,4 @@
-# ContractCode
+
 Project BitmassExchange
 BitmassExchange is a peer to peer decentralized crypto-currency on blockchain technology.It is a currency which is ultimately owned by Users.
 Overview
